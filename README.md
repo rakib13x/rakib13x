@@ -9,9 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib13x&label=Profile%20views&color=0e75b6&style=flat" alt="rakib13x" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,NextJS,MySql,MongoDb.**
+I'm Rakib Islam, a passionate software developer from Bangladesh.
 
-- 📫 How to reach me **rakib13x@gmail.com**
+- 🌱 I’m currently learning **ReactJs, NodeJs, NextJS, MySql, MongoDB**.
+- 📫 You can reach me at **rakib13x@gmail.com**.
+
+## About Me
+
+-I love to code and create innovative solutions. 
+-My journey in the world of programming has been exciting, and I enjoy exploring new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
