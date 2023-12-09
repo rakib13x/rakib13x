@@ -29,7 +29,8 @@
 
 | <div align="left">Stats</div> | <div align="right">Productive Time</div> |
 | --- | --- |
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib13x&theme=apprentice) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib13x&theme=apprentice&utcOffset=8) |
+|![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib13x&theme=apprentice&show_icons=true&theme=radical)
+| ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib13x&theme=apprentice&utcOffset=8) |
 
 Current Stats:
 <div align="center">
