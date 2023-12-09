@@ -1,8 +1,13 @@
+<img src="https://widgetbite.com/banner?title=Rakib%20Islam&subtitle=Creative%20Coder%2CJs%20Enthusiast&backgroundpalette=jungle&fontpalette=jungle&titletransform=rotate&subtitletransform=skew" width=100% height=100%/>
+
+
+
+
 ### Hi there 👋
 
 
 
-<img src="https://widgetbite.com/banner?title=Rakib%20Islam&subtitle=Creative%20Coder%2CJs%20Enthusiast&backgroundpalette=jungle&fontpalette=jungle&titletransform=rotate&subtitletransform=skew" width=100% height=100%/>
+
 
 <!--
 **rakib13x/rakib13x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
