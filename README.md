@@ -27,5 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib13x&show_icons=true&locale=en" alt="rakib13x" /></p>
 Current Stats:
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib13x&" alt="rakib13x" /></p>
+</div>
 
