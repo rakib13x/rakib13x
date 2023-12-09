@@ -29,7 +29,7 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib13x&theme=apprentice)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib13x&theme=apprentice&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib13x&theme=apprentice&utcOffset=8)
 Current Stats:
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib13x&" alt="rakib13x" /></p>
