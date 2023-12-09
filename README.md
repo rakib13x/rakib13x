@@ -9,11 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib13x&label=Profile%20views&color=0e75b6&style=flat" alt="rakib13x" /> </p>
 
-I'm Rakib Islam, a passionate software developer from Bangladesh.
-
-- 🌱 I’m currently learning **ReactJs, NodeJs, NextJS, MySql, MongoDB**.
-- 📫 You can reach me at **rakib13x@gmail.com**.
-
 ## About Me
 
 - 👨‍💻 I love to code and create innovative solutions.
@@ -21,7 +16,8 @@ I'm Rakib Islam, a passionate software developer from Bangladesh.
 - 🌐 I'm passionate about web development and always eager to learn new things.
 - 🎯 My focus is on building scalable and efficient applications to solve real-world problems.
 - 🤝 I enjoy collaborating with others and believe in the power of teamwork.
-
+- 🌱 I’m currently learning **ReactJs, NodeJs, NextJS, MySql, MongoDB**.
+- 📫 You can reach me at **rakib13x@gmail.com**.
 Feel free to explore my GitHub repositories, and let's connect on social media! Let's code and innovate together!
 
 
