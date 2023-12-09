@@ -26,6 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib13x&show_icons=true&locale=en&layout=compact" alt="rakib13x" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib13x&show_icons=true&locale=en" alt="rakib13x" /></p>
-# Current Stats:
+Current Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib13x&" alt="rakib13x" /></p>
 
