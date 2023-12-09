@@ -37,7 +37,7 @@ I'm Rakib Islam, a passionate software developer from Bangladesh.
 | --- | --- |
 |![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib13x&theme=apprentice&show_icons=true&theme=gruvbox) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib13x&theme=apprentice&utcOffset=8) |
 
-##Current Stats:
+Current Stats:
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib13x&" alt="rakib13x" /></p>
 </div>
