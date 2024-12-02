@@ -45,6 +45,6 @@ Current Stats:
 </div>
 LeetCode Stats:
 <div align="center">
-<p><img align="center" src="![](https://leetcard.jacoblin.cool/rakib13x?ext=contest)"&" alt="rakib13x" /></p>
+<p>![](https://leetcard.jacoblin.cool/rakib13x?ext=contest)</p>
 </div>
 
