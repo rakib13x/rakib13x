@@ -69,7 +69,7 @@ Feel free to explore my GitHub repositories, and let's connect on social media! 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co.com/BNYCzMH/prisma-logo-icon-248778.webp" alt="prisma" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/pvvLB5X/17219288.png" alt="prisma" width="40" height="40"/> 
   </a> 
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://i.ibb.co.com/frtb66N/react-query-logo-png-seeklogo-435661.png" alt="react-query" width="40" height="40"/> 
@@ -78,7 +78,7 @@ Feel free to explore my GitHub repositories, and let's connect on social media! 
     <img src="https://i.ibb.co.com/nfm9zSv/53986236.png" alt="react-hook-form" width="40" height="40"/> 
   </a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co.com/j4DKGX6/64e6097303f89560552bb8e6-Vercel-2x.webp" alt="vercel" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/Msf0h56/f89f5a6bd3107234fb0b76f8f2aeb812.jpg" alt="vercel" width="40" height="40"/> 
   </a>
 </p>
 
