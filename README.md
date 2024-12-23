@@ -69,16 +69,16 @@ Feel free to explore my GitHub repositories, and let's connect on social media! 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prisma/prisma-media/main/logo.png" alt="prisma" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/BNYCzMH/prisma-logo-icon-248778.webp" alt="prisma" width="40" height="40"/> 
   </a> 
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://react-query.tanstack.com/_next/static/images/logo-7e730ead572def02031c0168d4dfb68f.svg" alt="react-query" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/frtb66N/react-query-logo-png-seeklogo-435661.png" alt="react-query" width="40" height="40"/> 
   </a> 
   <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/react-hook-form/documentation/main/src/images/logo-circle.png" alt="react-hook-form" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/nfm9zSv/53986236.png" alt="react-hook-form" width="40" height="40"/> 
   </a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> 
+    <img src="https://i.ibb.co.com/j4DKGX6/64e6097303f89560552bb8e6-Vercel-2x.webp" alt="vercel" width="40" height="40"/> 
   </a>
 </p>
 
